@@ -1,5 +1,32 @@
-##React+ReactRouter+MobX sample
+## React+ReactRouter+MobX work sample
 
+Into the code I realise in minimal work complectation
+
+- MobX store (maybe it's time to bury Redux =) )
+- Routing and history
+- Layout
+- Authorization form and checking
+- Modal form with validation
+- Own webpack and babel configuration 
+
+I excluded all testing/verification tools from the git  
+but add the not will be problem, of course.
+
+I used also:
+
+- Bare Bootsrap with customized SCSS.
+- FontAwesome, SCSS
+
+"in minimal work complectation":
+
+> - Ville, I heard you built a house?
+> - Yes.
+> - How many rooms in it?
+> - One.
+> - Why one?
+> - Less makes no sense.
+
+=)
 
 
 ### Modules
